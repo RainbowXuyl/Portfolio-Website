@@ -3,7 +3,7 @@ ul,li{ list-style-type:none;}
 a{ text-decoration: none; color: #000;}
 body{ font-size:16px; font-family: Arial, Helvetica, sans-serif;}
 
-.header{width: 100%; height: 600px; background: url(../img/banner.jpg) no-repeat center bottom; background-size: cover;}
+.header{width: 100%; height: 600px; background: url(img/banner.jpg) no-repeat center bottom; background-size: cover;}
 .header .info{width: 1200px; height: inherit; margin: 0 auto; color: #fff;}
 .header .info h2{font-size: 35px; padding-top: 400px;}
 .header .info p{font-size:35px; font-weight: bold; line-height: 1.8; margin-bottom: 20px;}
@@ -73,7 +73,7 @@ body{ font-size:16px; font-family: Arial, Helvetica, sans-serif;}
 	object-fit: cover;
 }
 
-.md{width: 100%; height: 365px; background: url(../img/md.jpg) no-repeat center center; background-size: cover; overflow: hidden;}
+.md{width: 100%; height: 365px; background: url(img/md.jpg) no-repeat center center; background-size: cover; overflow: hidden;}
 .md .bg{width: 100%; height: 100%; background: rgba(0,0,0,0.5);}
 .md .center{ height: 365px; display: flex; align-items: center; width: 1200px; margin: 0 auto; color: #fff;}
 .md .l{width: 400px; font-size: 43px; font-weight: bold; padding-top: 5px;}
@@ -103,7 +103,7 @@ body{ font-size:16px; font-family: Arial, Helvetica, sans-serif;}
 .form-row input, .form-row textarea {
 	width: 75%;
 	padding: 5px;
-	font-family: 'Avenir', sans-serif;
+	font-family: sans-serif;
 	font-size: 16px;
 }
 
